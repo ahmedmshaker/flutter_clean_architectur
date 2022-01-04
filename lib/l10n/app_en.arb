@@ -1,0 +1,36 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "search": "Search",
+  "filter": "Filter",
+  "emptyMessage": "There is no accounts",
+  "accountNumber": "Account Number : {accountNumber}",
+  "stateOrProvince": "state or province : {stateOrProvince}",
+  "stateCode": "State Code : {stateCode}",
+  "@accountNumber": {
+    "description": "Account Number",
+    "placeholders": {
+      "accountNumber": {
+        "type": "String"
+      }
+    }
+  },
+  "@stateOrProvince": {
+    "description": "state or province",
+    "placeholders": {
+      "stateOrProvince": {
+        "type": "String"
+      }
+    }
+  },
+  "@stateCode": {
+    "description": "State Code",
+    "placeholders": {
+      "stateCode": {
+        "type": "int"
+      }
+    }
+  }
+}

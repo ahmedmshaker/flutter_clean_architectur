@@ -1,0 +1,1 @@
+const placeHolder = "assets/user_placeholder.jpeg";

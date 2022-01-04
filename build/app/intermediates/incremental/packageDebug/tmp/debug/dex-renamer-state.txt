@@ -1,0 +1,4 @@
+#Mon Jan 03 01:33:49 EET 2022
+base.0=/Users/ahmed.shaker/AndroidStudioProjects/rent_ready_task/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

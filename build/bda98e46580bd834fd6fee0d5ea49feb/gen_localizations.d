@@ -1,0 +1,1 @@
+ /Users/ahmed.shaker/AndroidStudioProjects/rent_ready_task/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/ahmed.shaker/AndroidStudioProjects/rent_ready_task/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/ahmed.shaker/AndroidStudioProjects/rent_ready_task/l10n.yaml /Users/ahmed.shaker/AndroidStudioProjects/rent_ready_task/lib/l10n/app_en.arb

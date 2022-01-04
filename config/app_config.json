@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://org2c9fce96.api.crm4.dynamics.com/",
+  "clientId": "959bf9ab-f1f9-48b6-bf33-577d0613c5c8",
+  "clientSecret": "Gnz7Q~6JG8TsGRx3w5Ol25PmvfZ9fzEciY8nn",
+  "tokenUrl": "https://login.microsoftonline.com/0fcd2810-9edc-41c4-be92-6c6d78468e7a/oauth2/v2.0/token"
+}
+
+
